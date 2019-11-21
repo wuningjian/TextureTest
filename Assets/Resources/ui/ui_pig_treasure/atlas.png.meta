@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 9de1d3aedddbc7d41a2f9ce16af4536e
+timeCreated: 1566466086
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jzxb_bg01
+    21300002: jzxb_bg02
+    21300004: jzxb_bg03
+    21300006: jzxb_bg04
+    21300008: jzxb_dt01
+    21300010: jzxb_dt02
+    21300012: jzxb_dt03
+    21300014: jzxb_dt04
+    21300016: jzxb_dt05
+    21300018: jzxb_dt06
+    21300020: jzxb_dt07
+    21300022: jzxb_dt08
+    21300024: jzxb_dt09
+    21300026: jzxb_dt10
+    21300028: jzxb_dt11
+    21300030: jzxb_dt12
+    21300032: jzxb_dt13
+    21300034: jzxb_dt14
+    21300036: jzxb_dt15
+    21300038: jzxb_dt16
+    21300040: jzxb_title
+    21300042: jzxb_wz01
+    21300044: jzxb_wz02
+    21300046: jzxb_wz03
+    21300048: jzxb_wz04
+    21300050: jzxb_wz05
+    21300052: jzxb_wz06
+    21300054: jzxb_xt
+    21300056: jzxb_xt01
+    21300058: tb_jl
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: 54
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jzxb_bg01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 178
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5280899, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_bg02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 57
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_bg03
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 35
+        width: 272
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_bg04
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 72
+        width: 128
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 392
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 599
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 806
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1013
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1220
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt06
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1427
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt07
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1634
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt08
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1634
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt09
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1634
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1634
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1634
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt12
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1841
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt13
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1841
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1841
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1841
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_dt16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1841
+        width: 386
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_title
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 113
+        width: 294
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.75581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_wz01
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3
+        width: 105
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_wz02
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3
+        width: 105
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_wz03
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 2016
+        width: 101
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_wz04
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3
+        width: 105
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_wz05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 135
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_wz06
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 15
+        width: 143
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_xt
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1897
+        width: 57
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jzxb_xt01
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1907
+        width: 61
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tb_jl
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1921
+        width: 82
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
