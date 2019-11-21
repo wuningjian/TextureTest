@@ -1,0 +1,10 @@
+# Unity:
+Output
+ 
+# VS:
+.vs
+*.csproj
+*.sln
+ 
+# My configurations:
+
